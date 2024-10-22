@@ -3,4 +3,6 @@ login by: github account
 Organization: smilegse_dev
 Project Name: SignUp_SignIn
 DB Pass: 4Gu8vrkj5YgE4z5z
+
 https://www.youtube.com/watch?v=bicCg4GxOP8
+https://www.prisma.io/docs/getting-started/quickstart
