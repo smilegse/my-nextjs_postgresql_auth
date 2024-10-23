@@ -3,6 +3,10 @@ login by: github account
 Organization: smilegse_dev
 Project Name: SignUp_SignIn
 DB Pass: 4Gu8vrkj5YgE4z5z
+Shadow: XQQP9bwdDUkvO84Q
 
 https://www.youtube.com/watch?v=bicCg4GxOP8
 https://www.prisma.io/docs/getting-started/quickstart
+
+DATABASE_URL = postgresql://postgres.qcepphsrzynhmguxzkpt:4Gu8vrkj5YgE4z5z@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres
+SHADOW_DATABASE_URL = postgresql://postgres.hycvjyrycuututfqtlts:XQQP9bwdDUkvO84Q@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres
