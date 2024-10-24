@@ -1,5 +1,5 @@
 generator client {
-  provider = "prisma-cnplient-js"
+  provider = "prisma-client-js"
 }
 
 datasource db {
